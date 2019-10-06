@@ -10,6 +10,8 @@ Hey, so today I'm bringing you guys an easy to use program that does:
 - [x] Dynmaps
 - [x] Easy access to voting sites
 - [ ] Implementing Shardians Website 
+- [ ] Save a username, and check on program start if a user has voted.
+- [ ] Add a feedback box, that works with a discord webhook directly for user feedback to help improve the program.
 
 # Credits
 
