@@ -1,0 +1,14 @@
+C:\Users\Apollo\source\repos\Altitude\Altitude\bin\Debug\Altitude.exe.config
+C:\Users\Apollo\source\repos\Altitude\Altitude\bin\Debug\Altitude.exe
+C:\Users\Apollo\source\repos\Altitude\Altitude\bin\Debug\Altitude.pdb
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.Form1.resources
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.Properties.Resources.resources
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.csproj.GenerateResource.cache
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.csproj.CoreCompileInputs.cache
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.exe
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.pdb
+C:\Users\Apollo\source\repos\Altitude\Altitude\bin\Debug\Altitude.exe.manifest
+C:\Users\Apollo\source\repos\Altitude\Altitude\bin\Debug\Altitude.application
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.exe.manifest
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.application
+C:\Users\Apollo\source\repos\Altitude\Altitude\obj\Debug\Altitude.csprojAssemblyReference.cache
